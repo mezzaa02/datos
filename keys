@@ -5,7 +5,7 @@ git clone https://github.com/mezzaa02/datos
 cd datos
 
 
-git remote set-url origin https://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@github.com/mezzaa02/bot2.git
+git remote set-url origin https://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@github.com/mezzaa02/datos.git
 
 
 git add .
